@@ -1,0 +1,10 @@
+C:\Users\HP\OneDrive\Documents\lesson of c#\home assegment\home assegment\bin\Debug\home assegment.exe.config
+C:\Users\HP\OneDrive\Documents\lesson of c#\home assegment\home assegment\bin\Debug\home assegment.exe
+C:\Users\HP\OneDrive\Documents\lesson of c#\home assegment\home assegment\bin\Debug\home assegment.pdb
+C:\Users\HP\OneDrive\Documents\lesson of c#\home assegment\home assegment\obj\Debug\home assegment.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Documents\lesson of c#\home assegment\home assegment\obj\Debug\home_assegment.Form1.resources
+C:\Users\HP\OneDrive\Documents\lesson of c#\home assegment\home assegment\obj\Debug\home_assegment.Properties.Resources.resources
+C:\Users\HP\OneDrive\Documents\lesson of c#\home assegment\home assegment\obj\Debug\home assegment.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Documents\lesson of c#\home assegment\home assegment\obj\Debug\home assegment.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Documents\lesson of c#\home assegment\home assegment\obj\Debug\home assegment.exe
+C:\Users\HP\OneDrive\Documents\lesson of c#\home assegment\home assegment\obj\Debug\home assegment.pdb
